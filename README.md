@@ -40,6 +40,8 @@ Credit Card Dominance in Utilization:
 Credit cards lead with the highest average utilization percentage at 1.94%, emphasizing their effectiveness in meeting consumer financial needs.
 Other payment types exhibit diverse utilization percentages, emphasizing the importance of tailoring strategies based on payment preferences.
 
+Here is the Live Dashboard Link : https://www.novypro.com/project/mitron-bank-credit-card-analysis-2
+
 
 ![image](https://github.com/Mouli12346/mitron_bank_resume_project/assets/141912332/118b1b76-a88c-4a7c-a254-eb9268bd9e4b)
 
